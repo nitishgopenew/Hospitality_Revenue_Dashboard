@@ -1,2 +1,38 @@
-# Hospitality_Revenue_Dashboard
-Power BI dashboard analyzing hotel revenue, occupancy, ADR, and booking performance
+# 📊 Hospitality Revenue Dashboard
+
+## 📌 Overview
+
+This Power BI dashboard analyzes hotel performance metrics.
+
+## 📊 Key Metrics
+
+* Revenue
+* RevPAR
+* ADR (Average Daily Rate)
+* Occupancy %
+* Realisation %
+
+## 🛠️ Tools Used
+
+* Power BI
+* Excel
+
+## 📷 Dashboard Preview
+
+(Add your screenshot here)
+
+## 🚀 Insights
+
+* Identified peak booking periods
+* Compared platform performance
+* Analyzed revenue trends
+
+## 📌 Skills Demonstrated
+
+* Data Visualization
+* Dashboard Design
+* Business Intelligence
+
+## 📌 Note
+
+This project is re-uploaded due to temporary loss of access to my previous GitHub account.
