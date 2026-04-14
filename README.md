@@ -19,7 +19,7 @@ This Power BI dashboard analyzes hotel performance metrics.
 
 ## 📷 Dashboard Preview
 
-(Add your screenshot here)
+![Dashboard](dashboard_preview.png)
 
 ## 🚀 Insights
 
