@@ -46,29 +46,7 @@ Watch the complete walkthrough of the Power BI dashboard:
 
 ## 📸 Dashboard Screenshots
 
-### 🔹 Revenue & Performance Overview
-
-![Revenue Dashboard](images/revenue_dashboard.png)
-
----
-
-### 🔹 Occupancy Analysis
-
-![Occupancy Analysis](images/occupancy_analysis.png)
-
----
-
-### 🔹 Booking Platform Contribution
-
-![Booking Platform](images/booking_platform.png)
-
----
-
-### 🔹 Revenue Trends
-
-![Revenue Trends](images/revenue_trends.png)
-
----
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📊 Key Insights
 
